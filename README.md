@@ -18,7 +18,13 @@ a una segunda página, lo que es un intento de clone de una página de un video.
 Está en proceso. Pero quería hacer una continución y hacer el hover en video, 
 por lo que integré un .mp4
  
- 
+
+
  
  ![youtube 3](https://user-images.githubusercontent.com/102187435/176563858-a0ba9ae7-9f20-4041-af5d-3fc6123e96aa.jpg)
+
+
+ ![youtube 5](https://user-images.githubusercontent.com/102187435/176667955-b26b5526-416e-450a-906e-557f3eb0bd8b.png)
+
+
 
